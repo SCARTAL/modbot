@@ -1,6 +1,6 @@
 # Mod bot
 
-A simple and easy discord moderation bot code useful for begginers to learn from and non-developers to use
+A simple and easy discord moderation bot code useful for begginers to learn from and non-developers to use brought to you by [SECTOR Team](https://sector-team.net)
 
 ## Commands
 
